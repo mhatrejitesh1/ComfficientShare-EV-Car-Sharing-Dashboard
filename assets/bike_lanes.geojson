@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Pop-Up-Radfahrstreifen",
+        "Nähere Beschreibung": "Verstetigt April/Mai 2021; Umwandlung des rechten Fahrstreifens in beiden Richtungen in Radfarhstreifen, Parkplätze weiter befahrbar",
+        "Bezirk": "Au-Haidhausen",
+        "Straße": "Rosenheimer Straße",
+        "Abschnitt Beginn": "Orleansstraße",
+        "Abschnitt Ende": "Rosenheimer Platz",
+        "Jahr": 2020,
+        "Umsetzungszeitraum": "Ende Juni 2020-31.10.2020",
+        "Zahl wegfallende Stellplätze": "/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596746,
+          48.126864
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Pop-Up-Radfahrstreifen",
+        "Nähere Beschreibung": "Stadtauswärts Umwandlung des rechten Fahrstreifens in Radfahrstreifen, Aufhebung der Park- und Haltemöglichkeit, Gehweg breiter",
+        "Bezirk": "Au-Haidhausen",
+        "Straße": "Rosenheimer Straße",
+        "Abschnitt Beginn": "Lilienstraße",
+        "Abschnitt Ende": "Am Lilienberg",
+        "Jahr": 2020,
+        "Umsetzungszeitraum": "Ende Juni 2020-31.10.2020",
+        "Zahl wegfallende Stellplätze": "/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588665,
+          48.131572
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Pop-Up-Radfahrstreifen",
+        "Nähere Beschreibung": "Umwandlung rechter Fahrstreifen in beiden Richtungen in Radfahrstreifen; vorherige Radwege wurden dem Gehweg zugeschlagen",
+        "Bezirk": "Altstadt-Lehel",
+        "Straße": "Zweibrückenstraße",
+        "Abschnitt Beginn": "Erhardt-/Steinsdorfstraße",
+        "Abschnitt Ende": "Rumford-Thierschstraße",
+        "Jahr": 2020,
+        "Umsetzungszeitraum": "Ende Juni 2020-31.10.2020",
+        "Zahl wegfallende Stellplätze": "/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.583757,
+          48.132976
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Pop-Up-Radfahrstreifen",
+        "Nähere Beschreibung": "Verstetigt April/Mai 2021; Umwandlung rechter Fahrstreifen in beiden Richtungen in Radfahrstreifen",
+        "Bezirk": "Maxvorstadt",
+        "Straße": "Elisenstraße",
+        "Abschnitt Beginn": "Dachauer Straße",
+        "Abschnitt Ende": "Lenbachplatz",
+        "Jahr": 2020,
+        "Umsetzungszeitraum": "22.06.2020-31.10.2020",
+        "Zahl wegfallende Stellplätze": "/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.563858,
+          48.141317
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Pop-Up-Radfahrstreifen",
+        "Nähere Beschreibung": "Verstetigt April/Mai 2021; Umwandlung rechter Fahrstreifen in Radfahrstreifen; zwischen Türken- und Luisenstraße versuchsweise Freigabe für Busse",
+        "Bezirk": "Maxvorstadt",
+        "Straße": "Theresienstraße",
+        "Abschnitt Beginn": "Türkenstraße",
+        "Abschnitt Ende": "Schleißheimer Straße",
+        "Jahr": 2020,
+        "Umsetzungszeitraum": "Ende Juni 2020-31.10.2020",
+        "Zahl wegfallende Stellplätze": "/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567063,
+          48.150334
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Pop-Up-Radfahrstreifen",
+        "Nähere Beschreibung": "Verstetigt am 12.05.2021; Umwandlung rechter Fahrstreifen in Radfahrstreifen; versuchsweise Freigabe für Busse",
+        "Bezirk": "Maxvorstadt",
+        "Straße": "Gabelsbergerstraße",
+        "Abschnitt Beginn": "Arcisstraße",
+        "Abschnitt Ende": "Türkenstraße",
+        "Jahr": 2020,
+        "Umsetzungszeitraum": "Ende Juni 2020-31.10.2020",
+        "Zahl wegfallende Stellplätze": "/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571341,
+          48.146683
+        ]
+      }
+    }
+  ]
+}

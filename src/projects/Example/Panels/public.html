@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <style>
+            h1 {
+                font-size: 20px;
+                font-weight: 600;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Legende: </h1>
+        <br />
+        <p style="color: red"> Rot: Schienennetz (kann ein- bzw. ausgeblendet werden)</p>
+        <p style="color: blue"> Blau: Autobahnnetz (kann ein- bzw. ausgeblendet werden)</p>
+        <p style="color: rgb(224, 208, 31)"> Gelb: Fußgängerzone (erst ab einer bestimmten Entfernung sichtbar)</p>
+        <p> Schwarz: Stadtviertel bzw. Landkreise (je nach Entfernung)</p>
+        <p style="color: rgb(77, 189, 105)"> Grün: Parks</p> <br />
+        <hr>
+        <h1> Additional Information: </h1>
+        <br />
+        <p>
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+            sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+            sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </p>
+        <div>
+            <h1> Map Control Buttons: </h1>
+            </br>
+            <button class="layer-control panel-button" layer-toggle="Example/public:motorways"> Straßennetz </button>
+            <button class="layer-control panel-button" layer-toggle="Example/public:railways"> Stadtbahnnetz
+            </button>
+            <button class="layer-control panel-button" layer-toggle="Example/public:subwaylines"> Ubahnnetz </button>
+            <button class="layer-control panel-button" !layer-hide="Example/public" layer-toggle="Example/public:subwaystations">
+                Ubahnhaltestellen </button>
+            <button class="layer-control panel-button" layer-toggle="Example/public:busstops"> Bushaltestellen
+            </button>
+        </div>
+    </body>
+</html>

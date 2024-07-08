@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Munich Power Lines</title>
+    <style>
+        h1 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .color-bar {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 550px;
+            margin: 20px;
+        }
+        .color-range {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+        .color-box {
+            height: 20px;
+            flex-grow: 1;
+        }
+        .label {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin-top: 5px;
+        }
+        #map {
+            height: 500px;
+            width: 100%;
+            margin: 20px 0;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: #fff;
+            padding: 5px;
+            border: 1px solid #ccc;
+            display: none;
+        }
+    </style>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <h1>Munich Power Lines</h1>
+    <br />
+    <p>This map shows the power lines in Munich with different voltage levels.</p>
+
+    <div class="color-bar">
+        <h3>Voltage Levels</h3>
+        <div class="color-range">
+            <div class="color-box" style="background-color: green"></div>
+            <div class="color-box" style="background-color: yellow"></div>
+            <div class="color-box" style="background-color: orange"></div>
+            <div class="color-box" style="background-color: red"></div>
+        </div>
+        <div class="label">
+            <span>0 - 50kV</span>
+            <span>50kV - 100kV</span>
+            <span>100kV - 200kV</span>
+            <span>200kV - 900kV</span>
+        </div>
+    </div>
+
+    <br />
+    <p>To view the low voltage grid of Munich please press the button below.</p>
+    <br />
+
+    <button id= "toggleLayerButton" class="layer-control panel-button" layer-toggle="ComfficientShare/powinf:pylovo_lines_layer;">
+        Low Voltage Grid
+    </button>
+
+    <br />
+    <br />
+    <p>To view the low voltage transformers please press the button below.</p>
+    <br />
+
+    <button id= "toggleLayerButton" class="layer-control panel-button2" layer-toggle="ComfficientShare/powinf:pylovo_trans_pos_layer;ComfficientShare/powinf:trans_pos_symbol">
+        Transformer Positions
+    </button>
+
+<div id="map"></div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<style>
+    #toggleLayerButton {
+        padding: 15px 30px;
+        font-size: 18px;
+        color: #ffffff;
+        background-color: #007bff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+    #toggleLayerButton:hover {
+        background-color: #0056b3;
+    }
+
+    #toggleLayerButton:active {
+        transform: translateY(2px);
+    }
+</style>
+</body>
+</html>

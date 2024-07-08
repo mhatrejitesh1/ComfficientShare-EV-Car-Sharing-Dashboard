@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <style>
+            h1 {
+                font-size: 18px;
+                font-weight: 600;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Informationen zur Karte: </h1>
+        <br />
+        <p>
+            Diese Karte zeigt unterschiedliche Interessenpunkte in ganz München. Diese Punkte gehören 
+            verschiedenen Projekten an. Die Projekte werden anhand der Farben und Symbole voneinander
+            unterschieden. Sie können eine Gruppe von Punkten aus- beziehungsweise einblenden, wenn Sie
+            auf den entsprechenden Knopf klicken:
+        </p>
+        <br />
+        <div style="display: flex; justify-content: space-evenly;">
+            <button class="layer-control panel-button" layer-toggle="Example/points:bikesharing; Example/points:bikesharing-points" style="font-size: 16px; background-color: rgb(252, 126, 129); border-radius: 4px; padding: 6px;">
+                Bike-Sharing
+            </button>
+            <button class="layer-control panel-button" layer-toggle="Example/points:bikelanes; Example/points:bikelanes-points" style="font-size: 16px; background-color: rgb(169, 136, 235); border-radius: 4px; padding: 6px;">
+                Radfahrstreifen
+            </button>
+            <button class="layer-control panel-button" layer-toggle="Example/points:mobility; Example/points:mobility-points"  style="font-size: 16px; background-color: rgb(125, 227, 220); border-radius: 4px; padding: 6px;">
+                Mobilitätsstationen
+            </button>
+            <button class="layer-control panel-button" layer-toggle="Example/points:parklets; Example/points:parklets-points"  style="font-size: 16px; background-color: rgb(123, 207, 114); border-radius: 4px; padding: 6px;">
+                Parklets
+            </button>
+        </div>
+        <br />
+        <br />
+        <h1> 
+            Um mehr über ein bestimmtes Projekt oder einen speziellen Punkt zu erfahren, tippen Sie diesen
+            auf der Karte an.  
+        </h1>
+    </body>
+</html>

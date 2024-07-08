@@ -1,0 +1,3086 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-06-20T17:40:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306374585",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4127698,
+            "reltags": {
+              "name": "U-Bahnhof Kieferngarten",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.613168,
+            48.2040534
+          ],
+          [
+            11.6132706,
+            48.2040383
+          ],
+          [
+            11.6131815,
+            48.2037657
+          ],
+          [
+            11.6131535,
+            48.2036779
+          ],
+          [
+            11.6131097,
+            48.2035225
+          ],
+          [
+            11.6130576,
+            48.2033489
+          ],
+          [
+            11.6129688,
+            48.2030248
+          ],
+          [
+            11.6128894,
+            48.2030349
+          ],
+          [
+            11.6128973,
+            48.203084
+          ],
+          [
+            11.6129206,
+            48.2032025
+          ],
+          [
+            11.6129386,
+            48.2033009
+          ],
+          [
+            11.612953,
+            48.2033728
+          ],
+          [
+            11.6129975,
+            48.2035253
+          ],
+          [
+            11.6130467,
+            48.2036937
+          ],
+          [
+            11.6130608,
+            48.2037413
+          ],
+          [
+            11.613146,
+            48.2039895
+          ],
+          [
+            11.613168,
+            48.2040534
+          ]
+        ]
+      },
+      "id": "way/306374585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306374584",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4127698,
+            "reltags": {
+              "name": "U-Bahnhof Kieferngarten",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6130382,
+            48.203017
+          ],
+          [
+            11.6131297,
+            48.2030051
+          ],
+          [
+            11.6131823,
+            48.2032073
+          ],
+          [
+            11.6132314,
+            48.2033708
+          ],
+          [
+            11.6133,
+            48.2035994
+          ],
+          [
+            11.6133308,
+            48.2036983
+          ],
+          [
+            11.6133569,
+            48.2037833
+          ],
+          [
+            11.6134352,
+            48.204016
+          ],
+          [
+            11.6133371,
+            48.2040295
+          ],
+          [
+            11.6132756,
+            48.2038504
+          ],
+          [
+            11.6132324,
+            48.2037119
+          ],
+          [
+            11.6131806,
+            48.2035473
+          ],
+          [
+            11.6131406,
+            48.203416
+          ],
+          [
+            11.6130911,
+            48.2032386
+          ],
+          [
+            11.6130382,
+            48.203017
+          ]
+        ]
+      },
+      "id": "way/306374584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245215115",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6164873,
+            48.2111829
+          ],
+          [
+            11.6164372,
+            48.2110887
+          ]
+        ]
+      },
+      "id": "way/245215115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245215123",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6162153,
+            48.2112477
+          ],
+          [
+            11.6161658,
+            48.2111528
+          ]
+        ]
+      },
+      "id": "way/245215123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261557892",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6164173,
+            48.2111998
+          ],
+          [
+            11.6164014,
+            48.2111682
+          ]
+        ]
+      },
+      "id": "way/261557892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261557895",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6162626,
+            48.2112362
+          ],
+          [
+            11.6162479,
+            48.2112068
+          ]
+        ]
+      },
+      "id": "way/261557895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261557897",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6161867,
+            48.2112546
+          ],
+          [
+            11.6161373,
+            48.2111596
+          ]
+        ]
+      },
+      "id": "way/261557897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261557901",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6164568,
+            48.2111903
+          ],
+          [
+            11.6164075,
+            48.2110958
+          ]
+        ]
+      },
+      "id": "way/261557901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261557907",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6163842,
+            48.2111628
+          ],
+          [
+            11.6164096,
+            48.2111568
+          ],
+          [
+            11.6164186,
+            48.2111738
+          ],
+          [
+            11.6163931,
+            48.2111797
+          ],
+          [
+            11.6163842,
+            48.2111628
+          ]
+        ]
+      },
+      "id": "way/261557907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261557909",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6162307,
+            48.2112015
+          ],
+          [
+            11.6162561,
+            48.2111955
+          ],
+          [
+            11.6162651,
+            48.2112125
+          ],
+          [
+            11.6162397,
+            48.2112185
+          ],
+          [
+            11.6162307,
+            48.2112015
+          ]
+        ]
+      },
+      "id": "way/261557909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245215113",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6169261,
+            48.2125069
+          ],
+          [
+            11.6169742,
+            48.2125998
+          ]
+        ]
+      },
+      "id": "way/245215113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245215119",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6171428,
+            48.2124538
+          ],
+          [
+            11.6171925,
+            48.2125467
+          ]
+        ]
+      },
+      "id": "way/245215119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27214338",
+        "check_date:wheelchair": "2023-06-06",
+        "name": "Michaelibad",
+        "operator": "MVG",
+        "platforms": "1",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6318229,
+          48.1183485
+        ]
+      },
+      "id": "node/27214338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28201702",
+        "name": "Am Hart",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q823547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5718148,
+          48.1959252
+        ]
+      },
+      "id": "node/28201702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28201749",
+        "layer": "-3",
+        "name": "Frankfurter Ring",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q823501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5727203,
+          48.1868168
+        ]
+      },
+      "id": "node/28201749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28202314",
+        "name": "Milbertshofen",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q823139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5731525,
+          48.1809043
+        ]
+      },
+      "id": "node/28202314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28205595",
+        "name": "Harthof",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q820359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5693933,
+          48.2043435
+        ]
+      },
+      "id": "node/28205595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28205626",
+        "name": "Hasenbergl",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q577933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5549136,
+          48.2134294
+        ]
+      },
+      "id": "node/28205626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28238954",
+        "name": "Georg-Brauchle-Ring",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q558633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5290587,
+          48.1774989
+        ]
+      },
+      "id": "node/28238954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/68655296",
+        "name": "Karl-Preis-Platz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6084037,
+          48.1179001
+        ]
+      },
+      "id": "node/68655296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/73778052",
+        "name": "Untersbergstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5875077,
+          48.1125954
+        ]
+      },
+      "id": "node/73778052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/73783822",
+        "name": "Fraunhoferstraße",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q277810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5741025,
+          48.1294285
+        ]
+      },
+      "id": "node/73783822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/73793044",
+        "name": "Candidplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q554647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5716454,
+          48.1130998
+        ]
+      },
+      "id": "node/73793044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/73800960",
+        "name": "Sankt-Quirin-Platz",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "U1",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5813957,
+          48.1044305
+        ]
+      },
+      "id": "node/73800960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/73800962",
+        "name": "Mangfallplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:IFOPT": "de:09162:1210",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q471701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5791773,
+          48.0970601
+        ]
+      },
+      "id": "node/73800962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/84322745",
+        "name": "Gern",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479795",
+        "wikipedia": "de:U-Bahnhof Gern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5291128,
+          48.16279
+        ]
+      },
+      "id": "node/84322745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/84322749",
+        "name": "Rotkreuzplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5330186,
+          48.1540479
+        ]
+      },
+      "id": "node/84322749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/84322751",
+        "name": "Maillingerstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q439160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5456047,
+          48.1499883
+        ]
+      },
+      "id": "node/84322751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/84322752",
+        "name": "Stiglmaierplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5569774,
+          48.147896
+        ]
+      },
+      "id": "node/84322752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/99191054",
+        "name": "Silberhornstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5804329,
+          48.1149039
+        ]
+      },
+      "id": "node/99191054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/211557411",
+        "name": "Theresienstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "uic_ref": "625254",
+        "wheelchair": "yes",
+        "wikidata": "Q823113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5644523,
+          48.1515099
+        ]
+      },
+      "id": "node/211557411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247674448",
+        "name": "Josephsplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5670928,
+          48.1557444
+        ]
+      },
+      "id": "node/247674448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277608575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4127698,
+            "reltags": {
+              "name": "U-Bahnhof Kieferngarten",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6132286,
+          48.2038679
+        ]
+      },
+      "id": "node/277608575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1189888870",
+        "name": "Westfriedhof",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5284591,
+          48.170381
+        ]
+      },
+      "id": "node/1189888870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1544801370",
+        "name": "Quiddestraße",
+        "platforms": "1",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6466744,
+          48.1081119
+        ]
+      },
+      "id": "node/1544801370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594808593",
+        "name": "Freimann",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q822522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6142748,
+          48.1919577
+        ]
+      },
+      "id": "node/1594808593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692348402",
+        "name": "Josephsburg",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6338089,
+          48.1265726
+        ]
+      },
+      "id": "node/1692348402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692348440",
+        "name": "Messestadt Ost",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7034068,
+          48.1333782
+        ]
+      },
+      "id": "node/1692348440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692348451",
+        "name": "Messestadt West",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6905408,
+          48.1334299
+        ]
+      },
+      "id": "node/1692348451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692348456",
+        "name": "Moosfeld",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.670984,
+          48.1307719
+        ]
+      },
+      "id": "node/1692348456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927183970",
+        "name": "Scheidplatz",
+        "network": "Münchner Verkehrs- und Tarifverbund",
+        "operator": "Münchner Verkehrsgesellschaft",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5728523,
+          48.1714156
+        ]
+      },
+      "id": "node/1927183970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927202335",
+        "name": "Alte Heide",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q822473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6025552,
+          48.1785521
+        ]
+      },
+      "id": "node/1927202335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927202337",
+        "name": "Odeonsplatz",
+        "network": "MVV",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5780447,
+          48.1433433
+        ]
+      },
+      "id": "node/1927202337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927202338",
+        "name": "Studentenstadt",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q822786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6076296,
+          48.1834944
+        ]
+      },
+      "id": "node/1927202338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2056183985",
+        "name": "Kieferngarten",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q616434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6132424,
+          48.2038406
+        ]
+      },
+      "id": "node/2056183985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292220951",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4127698,
+            "reltags": {
+              "name": "U-Bahnhof Kieferngarten",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6130954,
+          48.2038806
+        ]
+      },
+      "id": "node/2292220951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2473297786",
+        "name": "Karlsplatz (Stachus)",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567021,
+          48.1403353
+        ]
+      },
+      "id": "node/2473297786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500604016",
+        "name": "Harras",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5380616,
+          48.1168742
+        ]
+      },
+      "id": "node/2500604016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2524117388",
+        "name": "Kolumbusplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:IFOPT": "de:09162:160",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576652,
+          48.1198151
+        ]
+      },
+      "id": "node/2524117388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2539850174",
+        "name": "Sendlinger Tor",
+        "public_transport": "station",
+        "railway": "station",
+        "ref_name": "Sendlinger Tor, München",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q202403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5668639,
+          48.1334608
+        ]
+      },
+      "id": "node/2539850174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541407104",
+        "description": "Olympia-Einkaufszentrum unten (U3)",
+        "name": "Olympia-Einkaufszentrum",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5309222,
+          48.1821263
+        ]
+      },
+      "id": "node/2541407104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2554223954",
+        "name": "Wettersteinplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "U1",
+        "ref:IFOPT": "de:09162:1190",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q572734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5757399,
+          48.1082058
+        ]
+      },
+      "id": "node/2554223954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2562202514",
+        "name": "Implerstraße",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5484511,
+          48.1201994
+        ]
+      },
+      "id": "node/2562202514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2568050650",
+        "check_date:wheelchair": "2022-08-19",
+        "name": "Neuperlach Zentrum",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6461739,
+          48.101184
+        ]
+      },
+      "id": "node/2568050650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689596",
+        "name": "Fröttmaning",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6167125,
+          48.2118862
+        ]
+      },
+      "id": "node/2644689596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689597",
+        "name": "Garching",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6522822,
+          48.24932
+        ]
+      },
+      "id": "node/2644689597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689599",
+        "name": "Garching-Hochbrück",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q788560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6310929,
+          48.2473612
+        ]
+      },
+      "id": "node/2644689599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689600",
+        "name": "Giselastraße",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "U3;U6",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5840476,
+          48.1565588
+        ]
+      },
+      "id": "node/2644689600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689602",
+        "name": "Goetheplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q823559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5573549,
+          48.129034
+        ]
+      },
+      "id": "node/2644689602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689605",
+        "name": "Großhadern",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q823119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4770622,
+          48.1148053
+        ]
+      },
+      "id": "node/2644689605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689606",
+        "name": "Haderner Stern",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q823579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4889222,
+          48.1183829
+        ]
+      },
+      "id": "node/2644689606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689608",
+        "name": "Holzapfelkreuth",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q823634",
+        "wikipedia": "de:U-Bahnhof Holzapfelkreuth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5018378,
+          48.116315
+        ]
+      },
+      "id": "node/2644689608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689610",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4127698,
+            "reltags": {
+              "name": "U-Bahnhof Kieferngarten",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6133929,
+          48.2038479
+        ]
+      },
+      "id": "node/2644689610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4127698,
+            "reltags": {
+              "name": "U-Bahnhof Kieferngarten",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6132684,
+          48.2038651
+        ]
+      },
+      "id": "node/2644689612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689613",
+        "layer": "-2",
+        "name": "Klinikum Großhadern",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wikidata": "Q481072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4735768,
+          48.1090781
+        ]
+      },
+      "id": "node/2644689613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689618",
+        "name": "Münchner Freiheit",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "U3;U6",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q503383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5865312,
+          48.161985
+        ]
+      },
+      "id": "node/2644689618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689619",
+        "name": "Partnachplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q823612",
+        "wikipedia": "de:U-Bahnhof Partnachplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5267256,
+          48.1169406
+        ]
+      },
+      "id": "node/2644689619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689622",
+        "name": "Poccistraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q823599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5502436,
+          48.1254879
+        ]
+      },
+      "id": "node/2644689622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689645",
+        "name": "Universität",
+        "public_transport": "station",
+        "railway": "station",
+        "ref_name": "Universität, München",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q325405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5811442,
+          48.1503538
+        ]
+      },
+      "id": "node/2644689645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644689647",
+        "name": "Westpark",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q823590",
+        "wikipedia": "de:U-Bahnhof Westpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5162528,
+          48.1179858
+        ]
+      },
+      "id": "node/2644689647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093383",
+        "layer": "-2",
+        "level": "-2",
+        "name": "Aidenbachstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "U 3",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wikidata": "Q439941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5251946,
+          48.0978866
+        ]
+      },
+      "id": "node/2650093383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093388",
+        "description": "U 3",
+        "name": "Basler Straße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439937",
+        "wikipedia": "de:U-Bahnhof Basler Straße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4911686,
+          48.091273
+        ]
+      },
+      "id": "node/2650093388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093393",
+        "name": "Bonner Platz",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5782902,
+          48.1666668
+        ]
+      },
+      "id": "node/2650093393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093399",
+        "name": "Brudermühlstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5487222,
+          48.1125225
+        ]
+      },
+      "id": "node/2650093399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093404",
+        "name": "Forstenrieder Allee",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4993332,
+          48.0950686
+        ]
+      },
+      "id": "node/2650093404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093410",
+        "name": "Fürstenried West",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "U 3",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q176642",
+        "wikipedia": "de:U-Bahnhof Fürstenried West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4808304,
+          48.0883657
+        ]
+      },
+      "id": "node/2650093410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093415",
+        "name": "Machtlfinger Straße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5150398,
+          48.0973739
+        ]
+      },
+      "id": "node/2650093415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093421",
+        "name": "Moosacher Sankt-Martins-Platz",
+        "official_name": "Moosacher St.-Martins-Platz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q822466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5188145,
+          48.1818348
+        ]
+      },
+      "id": "node/2650093421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093427",
+        "name": "Obersendling",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q51912507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5359345,
+          48.0982332
+        ]
+      },
+      "id": "node/2650093427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093433",
+        "name": "Oberwiesenfeld",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q123726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5476222,
+          48.1859978
+        ]
+      },
+      "id": "node/2650093433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093438",
+        "name": "Olympiazentrum",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q480276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5560899,
+          48.1792984
+        ]
+      },
+      "id": "node/2650093438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093444",
+        "name": "Petuelring",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565901,
+          48.1756681
+        ]
+      },
+      "id": "node/2650093444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650093598",
+        "name": "Thalkirchen",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5459789,
+          48.1028401
+        ]
+      },
+      "id": "node/2650093598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339813",
+        "name": "Arabellapark",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "train": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "8-13cm zwischen Fahrzeug und Bahnsteig",
+        "wikidata": "Q557269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6220625,
+          48.1535552
+        ]
+      },
+      "id": "node/2660339813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339814",
+        "name": "Böhmerwaldplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q480063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6155997,
+          48.1435048
+        ]
+      },
+      "id": "node/2660339814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339815",
+        "name": "Dietlindenstraße",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wikidata": "Q823537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5908531,
+          48.1671225
+        ]
+      },
+      "id": "node/2660339815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339816",
+        "name": "Friedenheimer Straße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5108557,
+          48.1351246
+        ]
+      },
+      "id": "node/2660339816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339818",
+        "name": "Lehel",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q479458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5879211,
+          48.1396562
+        ]
+      },
+      "id": "node/2660339818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339820",
+        "name": "Prinzregentenplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wikidata": "Q480059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6070336,
+          48.1392662
+        ]
+      },
+      "id": "node/2660339820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339821",
+        "name": "Laimer Platz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5019761,
+          48.1354608
+        ]
+      },
+      "id": "node/2660339821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339822",
+        "name": "Richard-Strauss-Straße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q480136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6166014,
+          48.1483334
+        ]
+      },
+      "id": "node/2660339822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339823",
+        "check_date:wheelchair": "2022-08-14",
+        "name": "Schwanthalerhöhe",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5410566,
+          48.1337822
+        ]
+      },
+      "id": "node/2660339823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660339824",
+        "name": "Therese-Giehse-Allee",
+        "platforms": "1",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6427164,
+          48.0947304
+        ]
+      },
+      "id": "node/2660339824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660347912",
+        "name": "Theresienwiese",
+        "name:etymology:wikidata": "Q233198",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q1984610",
+        "wikipedia": "de:U-Bahnhof Theresienwiese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5522316,
+          48.135672
+        ]
+      },
+      "id": "node/2660347912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660347913",
+        "description": "Westendstraße U5 Bahnsteig",
+        "name": "Westendstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q479493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5211123,
+          48.1347377
+        ]
+      },
+      "id": "node/2660347913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2671563358",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6164014,
+          48.2111682
+        ]
+      },
+      "id": "node/2671563358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2671563368",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4103450,
+            "reltags": {
+              "name": "U-Bahnhof Fröttmaning",
+              "public_transport": "station",
+              "railway": "station",
+              "station": "subway",
+              "subway": "yes",
+              "type": "site",
+              "wheelchair": "yes",
+              "wikidata": "Q439586",
+              "wikipedia": "de:U-Bahnhof Fröttmaning"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6162479,
+          48.2112068
+        ]
+      },
+      "id": "node/2671563368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3095464861",
+        "name": "Dülferstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q324703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5636448,
+          48.2122973
+        ]
+      },
+      "id": "node/3095464861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3114658668",
+        "name": "Königsplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "ref_name": "Königsplatz, München",
+        "source": "survey",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q438887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5632086,
+          48.14501
+        ]
+      },
+      "id": "node/3114658668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3142725229",
+        "name": "Hohenzollernplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "survey",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5687654,
+          48.1623677
+        ]
+      },
+      "id": "node/3142725229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3157044270",
+        "name": "Nordfriedhof",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q823622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596986,
+          48.1731876
+        ]
+      },
+      "id": "node/3157044270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3157666761",
+        "name": "Moosach",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5081808,
+          48.1809642
+        ]
+      },
+      "id": "node/3157666761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189921161",
+        "name": "Feldmoching",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5410187,
+          48.2137907
+        ]
+      },
+      "id": "node/3189921161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189921261",
+        "name": "Giesing",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5958195,
+          48.1110358
+        ]
+      },
+      "id": "node/3189921261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189921262",
+        "name": "Heimeranplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5322141,
+          48.133541
+        ]
+      },
+      "id": "node/3189921262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189921461",
+        "name": "Marienplatz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5761828,
+          48.1383609
+        ]
+      },
+      "id": "node/3189921461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189921561",
+        "name": "Ostbahnhof",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q26462991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6036296,
+          48.1280775
+        ]
+      },
+      "id": "node/3189921561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189921562",
+        "name": "Trudering",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6625917,
+          48.1256535
+        ]
+      },
+      "id": "node/3189921562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3278115761",
+        "name": "Hauptbahnhof",
+        "note": "oberer Bahnhof (U4/U5)",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5599751,
+          48.1392934
+        ]
+      },
+      "id": "node/3278115761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3278115861",
+        "name": "Hauptbahnhof",
+        "name:en": "Main train station",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5610962,
+          48.1401455
+        ]
+      },
+      "id": "node/3278115861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372671294",
+        "name": "Odeonsplatz",
+        "name:zh": "歐登廣場",
+        "network": "MVV",
+        "operator": "MVG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q320614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5763171,
+          48.1427658
+        ]
+      },
+      "id": "node/3372671294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372671694",
+        "name": "Sendlinger Tor",
+        "public_transport": "station",
+        "railway": "station",
+        "ref_name": "Sendlinger Tor, München",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5670945,
+          48.1335231
+        ]
+      },
+      "id": "node/3372671694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3419919093",
+        "name": "Neuperlach Süd",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6451941,
+          48.0888549
+        ]
+      },
+      "id": "node/3419919093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500554803",
+        "description": "Olympia-Einkaufszentrum oben (U1)",
+        "name": "Olympia-Einkaufszentrum",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q572749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5302407,
+          48.1827188
+        ]
+      },
+      "id": "node/3500554803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4185592202",
+        "name": "Am Knie",
+        "proposed": "station",
+        "public_transport": "station",
+        "railway": "proposed",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4721003,
+          48.1445613
+        ]
+      },
+      "id": "node/4185592202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4185592203",
+        "name": "Pasing Bahnhof",
+        "proposed": "station",
+        "public_transport": "station",
+        "railway": "proposed",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4611203,
+          48.1492089
+        ]
+      },
+      "id": "node/4185592203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4475140665",
+        "name": "Aubinger Allee",
+        "proposed": "station",
+        "public_transport": "station",
+        "railway": "proposed",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4059324,
+          48.146263
+        ]
+      },
+      "id": "node/4475140665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4475141103",
+        "name": "Ramses",
+        "proposed": "station",
+        "public_transport": "station",
+        "railway": "proposed",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4339866,
+          48.1494715
+        ]
+      },
+      "id": "node/4475141103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4475141105",
+        "name": "Wiesentfelser Straße",
+        "proposed": "station",
+        "public_transport": "station",
+        "railway": "proposed",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4174672,
+          48.1465993
+        ]
+      },
+      "id": "node/4475141105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711533262",
+        "name": "Innsbrucker Ring",
+        "network": "MVV",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q555964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6187904,
+          48.1204367
+        ]
+      },
+      "id": "node/4711533262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4726482189",
+        "name": "Kreillerstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q439024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6468525,
+          48.1257542
+        ]
+      },
+      "id": "node/4726482189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5184176689",
+        "name": "Max-Weber-Platz",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:IFOPT": "de:09162:580",
+        "station": "subway",
+        "subway": "yes",
+        "train": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5978714,
+          48.1357035
+        ]
+      },
+      "id": "node/5184176689"
+    }
+  ]
+}

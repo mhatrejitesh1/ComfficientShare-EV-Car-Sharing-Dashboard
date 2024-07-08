@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet auf zwei Längsparkplätzen, zwei Sitznischen, Tauschregal, Pfandnische, Fahrradständer, Bepflanzung",
+        "Bezirk": "Au-Haidhausen",
+        "Straße": "Breisässer Platz",
+        "Abschnitt Beginn": "Breisacher Straße/Ecke Elsässer Straße",
+        "Abschnitt Ende": "Breisacher Straße/Ecke Elsässer Straße",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "01.09.-28.11.2021",
+        "Zahl wegfallende Stellplätze": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605074,
+          48.13045
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet auf zwei Längsparkplätzen, Sitzgelegenheiten aus EURO-Paletten, Bepflanzung",
+        "Bezirk": "Sendling",
+        "Straße": "Gotzinger Platz",
+        "Abschnitt Beginn": "Thalkirchnerstraße/Ecke Kochelseestraße",
+        "Abschnitt Ende": "Thalkirchnerstraße/Ecke Kochelseestraße",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "11.09.-12.11.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.550964,
+          48.118157
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet, Sitzelemente, Stehtische, Rasenteppich, Bäume/Sträucher",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Landwehrstraße",
+        "Abschnitt Beginn": "Landwehrstraße 32c",
+        "Abschnitt Ende": "Landwehrstraße 32c",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-10.10.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55984,
+          48.1364
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet, Sitzelemente, Bepflanzung",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Landwehrstraße",
+        "Abschnitt Beginn": "Landwehrstraße 35",
+        "Abschnitt Ende": "Landwehrstraße 35",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-10.10.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56019,
+          48.13631
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet, Sitzelemente, Bepflanzung",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Landwehrstraße",
+        "Abschnitt Beginn": "Landwehrstraße 36",
+        "Abschnitt Ende": "Landwehrstraße 36",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-10.10.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55959,
+          48.13641
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Sechs Parklets (2 x3), freistehende Holzelemente, Befplanzung, Infowand",
+        "Bezirk": "Schwanthalerhöhe",
+        "Straße": "Parkstraße",
+        "Abschnitt Beginn": "Parkstraße 16-18 3 Parklets",
+        "Abschnitt Ende": "Parkstraße 17 bis 19 3 Parklets",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "24.08.-28.09.2021",
+        "Zahl wegfallende Stellplätze": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54402,
+          48.13636
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet, Sitzelemente, räumliche Begrenzung, Bäume/Sträucher",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Schillerstraße",
+        "Abschnitt Beginn": "Schillerstraße 22",
+        "Abschnitt Ende": "Schillerstraße 22",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-10.10.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56091,
+          48.13705
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Urban Gardening-Parklet mit Hochbeeten",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Schillerstraße",
+        "Abschnitt Beginn": "Schillerstraße 25",
+        "Abschnitt Ende": "Schillerstraße 25",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-10.10.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56099,
+          48.1362
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet, Fahrradstellplätze und Fahrrad-Reparaturstation",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Schillerstraße",
+        "Abschnitt Beginn": "Schillerstraße 32",
+        "Abschnitt Ende": "Schillerstraße 32",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-10.10.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56082,
+          48.1361
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet, Sitzelemente, Schachbrett, Bepflanzung",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Schillerstraße",
+        "Abschnitt Beginn": "Schillerstraße 41",
+        "Abschnitt Ende": "Schillerstraße 41",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-10.10.2021",
+        "Zahl wegfallende Stellplätze": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56088,
+          48.13508
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet auf zwei Schrägparkplätzen, Sitzgelegenheit aus EURO-Paletten und Bepflanzung",
+        "Bezirk": "Sendling",
+        "Straße": "Schöttlstraße",
+        "Abschnitt Beginn": "Schöttlstraße/Ecke Fallstraße",
+        "Abschnitt Ende": "Schöttlstraße/Ecke Fallstraße",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "07.07.-14.11.2021",
+        "Zahl wegfallende Stellplätze": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.538551,
+          48.109215
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet auf zwei Parkplätzen, Austauschplattform mit Aufenthaltsfläche, Sitzflächen, Infotisch, dazu weitere Klappstühle in abschließbarer Kiste, Bepflanzung",
+        "Bezirk": "Neuhausen-Nymphenburg",
+        "Straße": "Volkartstraße",
+        "Abschnitt Beginn": "Volkartstraße 18",
+        "Abschnitt Ende": "Volkarstraße 20",
+        "Jahr": 2021,
+        "Umsetzungszeitraum": "28.08.-13.09.2021",
+        "Zahl wegfallende Stellplätze": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.43411,
+          48.15534
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet mit Sitzflächen, Bepflanzung, Schatten, Kinderecke; Zugangspunkt zu Mobilitätsstation im Domagkviertel",
+        "Bezirk": null,
+        "Straße": "Fritz-Winter-Straße",
+        "Abschnitt Beginn": "Fritz-Winter-Straße 3",
+        "Abschnitt Ende": "Fritz-Winter-Straße 3",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.597558,
+          48.184
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet auf zwei Längsparkplätzen, Sitzmöglichkeiten, Tauschregal, Fahrradständer, Bepflanzung",
+        "Bezirk": "Au-Haidhausen",
+        "Straße": "Breisässer Platz",
+        "Abschnitt Beginn": "Breisacher Straße/Ecke Elsässer Straße",
+        "Abschnitt Ende": "Breisacher Straße/Ecke Elsässer Straße",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605074,
+          48.13045
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet mit Pflanzen, Warenwechselstube (Tauschschrank), Sitzgelegenheiten",
+        "Bezirk": "Ramersdorf-Perlach",
+        "Straße": "St.-Martin-Straße",
+        "Abschnitt Beginn": "St.-Martin-Straße 7",
+        "Abschnitt Ende": "St.-Martin-Straße 7",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58188,
+          48.11631
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet mit Pflanzen, Sitzgelegenheiten",
+        "Bezirk": "Maxvorstadt",
+        "Straße": "Steinheilstraße",
+        "Abschnitt Beginn": "Steinheilstraße/Ecke Luisenstraße",
+        "Abschnitt Ende": "Steinheilstraße/Ecke Luisenstraße",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565707,
+          48.149335
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet mit Fahrradabstellmöglichkeiten, Bepflanzung",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Landwehrstraße",
+        "Abschnitt Beginn": "Landwehrstraße 38",
+        "Abschnitt Ende": "Landwehrstraße 38",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5602,
+          48.13663
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet auf zwei Längsparkplätzen, Sitzgelegenheiten aus EURO-Paletten, Bepflanzung",
+        "Bezirk": "Sendling",
+        "Straße": "Gotzinger Platz",
+        "Abschnitt Beginn": "Thalkirchnerstraße/Ecke Kochelseestraße",
+        "Abschnitt Ende": "Thalkirchnerstraße/Ecke Kochelseestraße",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.550964,
+          48.118157
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet auf zwei Schrägparkplätzen, Sitzgelegenheit aus EURO-Paletten und Bepflanzung",
+        "Bezirk": "Sendling",
+        "Straße": "Schöttlstraße",
+        "Abschnitt Beginn": "Schöttlstraße (Hausnummer 1)/Ecke Fallstraße",
+        "Abschnitt Ende": "Schöttlstraße (Hausnummer 1)/Ecke Fallstraße",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.538551,
+          48.109215
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parkelt mit Sitzgelegenheiten, Tischen, bemalten Wänden und Spielekiste",
+        "Bezirk": "Schwanthalerhöhe",
+        "Straße": "Guldeinstraße",
+        "Abschnitt Beginn": "Guldeinstraße/Ecke Astallerstraße (Hausnummer 11)",
+        "Abschnitt Ende": "Guldeinstraße/Ecke Astallerstraße (Hausnummer 11)",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.53155,
+          48.13892
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Parklet",
+        "Nähere Beschreibung": "Parklet mit Bepflanzung",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Landwehrstraße",
+        "Abschnitt Beginn": "Landwehrstraße 25",
+        "Abschnitt Ende": "Landwehrstraße 25",
+        "Jahr": 2022,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56211,
+          48.13637
+        ]
+      }
+    }
+  ]
+}

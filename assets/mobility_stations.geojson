@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "City2Share: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Goetheplatz",
+        "Abschnitt Beginn": "Lindwurmstraße 85",
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55826,
+          48.1292
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "City2Share: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Sendling",
+        "Straße": "Kidlerplatz",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54161,
+          48.11694
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "City2Share: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Am Glockenbach",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56682,
+          48.12631
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Colmdorfstraße 34",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41427,
+          48.15559
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Wiesentfelser Straße 16",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41946,
+          48.1474
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Hans-Stützle-Straße 2",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41103,
+          48.1391
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Ilse-Fehling-Straße 37",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42758,
+          48.1553
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Mainaustraße 73",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.43423,
+          48.14889
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Bodenseestraße 238",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42322,
+          48.14287
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Friedrichshafener Straße 11",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.44226,
+          48.14787
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Smarter Together: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Aubing-Lochhausen-Langwied",
+        "Straße": "Wiesentfelser Straße 53",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41353,
+          48.14636
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Civitas Eccentric: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing, sowie Info-Stele",
+        "Bezirk": "Schwabing-Freimann",
+        "Straße": "Marianne-Brandt-Straße",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59359,
+          48.18074
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Civitas Eccentric: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing, sowie Info-Stele",
+        "Bezirk": "Schwabing-Freimann",
+        "Straße": "Gertrud-Grunow-Straße",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59661,
+          48.18381
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Civitas Eccentric: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing, sowie Info-Stele",
+        "Bezirk": "Schwabing-Freimann",
+        "Straße": "Max-Bill-Straße",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2020,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59344,
+          48.18699
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "Civitas Eccentric: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing, sowie Info-Stele",
+        "Bezirk": "Schwabing-Freimann",
+        "Straße": "Karl-Weinmair-Straße",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2020,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58855,
+          48.1796
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "Maßnahme": "Mobilitätsstation",
+        "Nähere Beschreibung": "City2Share: Errichtung einer Mobilitätsstation mit elektrischem Car-Sharing und E-Bikesharing, sowie digitaler Info-Stele",
+        "Bezirk": "Ludwigvorstadt-Isarvorstadt",
+        "Straße": "Zenettiplatz",
+        "Abschnitt Beginn": null,
+        "Abschnitt Ende": null,
+        "Jahr": 2018,
+        "Umsetzungszeitraum": null,
+        "Zahl wegfallende Stellplätze": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55567,
+          48.12445
+        ]
+      }
+    }
+  ]
+}
